@@ -1,0 +1,6 @@
+192.168.1.1 - - [16/Apr] "GET /index.html"
+192.168.1.2 - - [16/Apr] "GET /home.html"
+192.168.1.1 - - [16/Apr] "POST /login"
+192.168.1.3 - - [16/Apr] "GET /about"
+192.168.1.2 - - [16/Apr] "GET /contact"
+192.168.1.1 - - [16/Apr] "GET /dashboard"
